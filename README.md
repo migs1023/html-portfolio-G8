@@ -1,5 +1,5 @@
 <!DOCTYPE.mal>
-I declare that this is me. All about my life in the heart of UAE
+I declare that this is me. All about my life in the heart of the UAE
 
 <h1> Overview </h1>
 <p> Name: Miguel Antonio C. Punzalan </p>
