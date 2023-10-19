@@ -94,3 +94,23 @@ My First Graduation.
 <img width="741" alt="Screenshot 2023-10-19 at 7 31 40 AM" src="https://github.com/migs1023/html-portfolio-G8/assets/147469429/af1a6aeb-a887-4299-a452-a4c52e62b919">
 
 </ol>
+
+<h1>Talents</h1>
+<li>
+  Playing Piano
+  Computer Typing and Video/Slide Making
+  Swimming
+</li>
+
+<h1> Dreams, Goals, or Other Aspirations</h1>
+<p>
+All my life, I have been blessed with family, friends, and good life. As I started to grow and entered my teens, I dream of becoming a successful pianist and accountant.
+</p>
+
+<p>
+To be a pianist and an accountant is hard but I know with early determination and perseverance, I will be able to achieve it. Working and studying hard in my piano classes and online distance learning will help me in developing the skills needed for my dreams and goals in life.
+</p>
+
+<p>
+Overall, I am grateful to God for my life, families, and friends for being there and supporting me in everyday struggles and milestones.
+</p>
